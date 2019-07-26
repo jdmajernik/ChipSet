@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\ChipSet\Source\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+c:\users\john\desktop\chipset\source\myproject\source\myproject\MyProjectGameMode.h
+D:\Program Files (x86)\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files (x86)\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files (x86)\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files (x86)\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\John\Desktop\ChipSet\Source\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectGameMode.generated.h
+c:\users\john\desktop\chipset\source\myproject\source\myproject\MyProjectPlayerController.h
+C:\Users\John\Desktop\ChipSet\Source\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectPlayerController.generated.h
+c:\users\john\desktop\chipset\source\myproject\source\myproject\MyProjectPawn.h
+C:\Users\John\Desktop\ChipSet\Source\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectPawn.generated.h
